@@ -2,6 +2,6 @@
   "theme": "moonstone",
   "translucency": false,
   "accentColor": "",
-  "textFontFamily": "",
+  "textFontFamily": "Courier New",
   "cssTheme": "Primary"
 }
