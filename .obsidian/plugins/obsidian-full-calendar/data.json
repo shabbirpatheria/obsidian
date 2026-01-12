@@ -1,0 +1,36 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#fb8400",
+      "directory": "Calendar/Appointments"
+    },
+    {
+      "type": "local",
+      "color": "#023047",
+      "directory": "Calendar/Leisure"
+    },
+    {
+      "type": "local",
+      "color": "#8ecae6",
+      "directory": "Calendar/Work"
+    },
+    {
+      "type": "local",
+      "color": "#feb705",
+      "directory": "Calendar/Learning"
+    },
+    {
+      "type": "local",
+      "color": "#229ebc",
+      "directory": "Calendar/Office"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

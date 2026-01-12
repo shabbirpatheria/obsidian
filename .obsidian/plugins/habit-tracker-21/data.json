@@ -1,0 +1,8 @@
+{
+  "path": "",
+  "daysToShow": 21,
+  "debug": false,
+  "matchLineLength": true,
+  "defaultColor": "green",
+  "showStreaks": true
+}

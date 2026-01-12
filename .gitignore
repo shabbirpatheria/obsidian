@@ -1,0 +1,6 @@
+# Obsidian workspace files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian plugins with secrets
+.obsidian/plugins/tasknotes/
