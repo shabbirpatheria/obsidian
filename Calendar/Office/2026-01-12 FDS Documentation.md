@@ -1,6 +1,6 @@
 ---
 
-title: FDS Onboard
+title: FDS Documentation
 allDay: false
 startTime: 14:00
 endTime: 16:30
