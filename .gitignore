@@ -4,3 +4,5 @@
 
 # Obsidian plugins with secrets
 .obsidian/plugins/tasknotes/
+
+git_clean.sh
